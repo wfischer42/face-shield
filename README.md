@@ -13,7 +13,7 @@ Prusa's files were released under the non-open source CC by SA NC license.
 
 We regularly update and improve our designs. To make sure you're using the most recent design files, check out [our releases](https://github.com/make4covid/face-shield/releases) and download the latest version if you don't have it already!
 
-This design repository uses semantic versioning, which has the format of `v\<Major Version>.\<Minor Version>`. So `v2.1` has a Major Version of 2 and a Minor Version of 1.
+This design repository uses semantic versioning, which has the format of `v<Major Version>.<Minor Version>`. So `v2.1` has a Major Version of 2 and a Minor Version of 1.
 
 A change in the Major Version means that changes may not be backwards compatible. So a shield with version `1.x` may not fit the pegs of a headband with version `v2.y`, but a `v2.z` shield will fit a `2.y` headband. 
 
