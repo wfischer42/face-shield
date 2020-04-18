@@ -1,5 +1,5 @@
-# face-shield
-Make4Covid Face Shield, forked from Prusa.
+# M4C Face Shield - Forked from Prusa
+The Make4Covid Face Shield, forked from Prusa.
 
 This repo contains the face shield currently in production by the Make4Covid
 organization. The Make4Covid design is based on the design from Prusa.
@@ -9,7 +9,7 @@ https://www.prusaprinters.org/prints/25857-prusa-protective-face-shield-rc3
 Prusa's files were released under the non-open source CC by SA NC license.
 
 # Semantic Versioning
-**Any version of these designs below v1.0 have not been validated and are not considered safe to use in a clinical setting.**
+**Any version of these designs below v1.0 (including pre-release) have not been validated and are not considered safe to use in a clinical setting.**
 
 We regularly update and improve our designs. To make sure you're using the most recent design files, check out [our releases](https://github.com/make4covid/face-shield/releases) and download the latest version if you don't have it already!
 
@@ -21,6 +21,10 @@ A change in the minor version may impact the safety profile, the quality of the 
 
 If you're using the recommended materials for each design, then a shield cut from a v1.x file should fit on any v1.y RC1, RC2, or RC3 headband. If you find a problem with the design, compatible, please [open an issue!](https://github.com/make4covid/face-shield/issues/new?assignees=&labels=&template=design-issue-template.md&title=)
 
+## Releasing New Versions
+This repository's benevolent dictators can [release new versions here](https://github.com/make4covid/face-shield/releases) once changes have been validated. Simply click `Draft New Release` and provide an incremented version number, along with a description of the changes made for that version. For changes that impact component compatibility, such as a change in peg positions, increment the major version. For all other changes (e.g. `v1.5` -> `v2.0`), increment the minor version (e.g. `1.3` -> `1.4`).
+
+If a release hasn't been fully validated, you can mark it as a `pre-release`, which you can update once validation is complete.
 
 # Issues?
 If you find a problem with a design, compatibility between files, safety, documentation, or suggestions for improvement, please [open an issue!](https://github.com/make4covid/face-shield/issues/new?assignees=&labels=&template=design-issue-template.md&title=)
