@@ -1,4 +1,4 @@
-# Make4Covid Face Shield - 
+# Make4Covid Face Shield
 ## Based on Prusa
 
 This repo contains the face shield currently in production by the Make4Covid
