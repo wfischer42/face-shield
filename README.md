@@ -1,5 +1,5 @@
 # Make4Covid Face Shield
-## Based on the [Prusa design](https://www.prusaprinters.org/prints/25857-prusa-protective-face-shield-rc3)
+### Based on the [Prusa design](https://www.prusaprinters.org/prints/25857-prusa-protective-face-shield-rc3)
 
 This repo contains the face shield currently in production by the Make4Covid
 organization. The Make4Covid design is based on [this design from Prusa](https://www.prusaprinters.org/prints/25857-prusa-protective-face-shield-rc3).
